@@ -18,3 +18,14 @@ This project provides a robust data preprocessing pipeline for house price predi
    ```sh
    python house_price_preprocessing.py
 
+## Requirements
+
+Python 3.x
+pandas
+numpy
+scikit-learn
+
+## Install dependencies with:
+
+```sh
+pip install pandas numpy scikit-learn
